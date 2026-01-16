@@ -1,5 +1,5 @@
 {
-  "name": "betterly-management-report",
+  "name": "management-dashboard",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -13,16 +13,13 @@
     "react-dom": "^18.2.0",
     "recharts": "^2.12.7",
     "framer-motion": "^11.0.0",
-    "lucide-react": "^0.454.0",
-    "tailwindcss": "^3.4.14",
-    "clsx": "^2.1.1",
-    "tailwind-merge": "^2.5.4",
-    "class-variance-authority": "^0.7.0"
+    "lucide-react": "^0.454.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
-    "autoprefixer": "^10.4.20",
+    "vite": "^5.4.8",
+    "tailwindcss": "^3.4.14",
     "postcss": "^8.4.47",
-    "vite": "^5.4.8"
+    "autoprefixer": "^10.4.20"
   }
 }
